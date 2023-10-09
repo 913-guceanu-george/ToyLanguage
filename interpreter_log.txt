@@ -1,0 +1,473 @@
+ID= 0
+PrgState::= 
+symTable= 
+heap= 
+exeStack= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)       
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= 
+heap= 
+exeStack= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)       
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= 
+heap= 
+exeStack= int v ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= 
+heap= 
+exeStack= int v ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= 
+heap= 
+exeStack= int v ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= 
+heap= 
+exeStack= int v ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= 
+heap= 
+exeStack= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)       
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= 
+heap= 
+exeStack= int v ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= 
+heap= 
+exeStack= int v ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= 
+heap= 
+exeStack= int v ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= 
+heap= 
+exeStack= int v ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= v -> notDefined; 
+heap= 
+exeStack= ref int a v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)     
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
+ID= 0
+PrgState::= 
+symTable= a -> Ref(0); v -> 10; 
+heap= 
+exeStack= new(a, 22) fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)   
+out= 
+fileTable= 
+originalProgram= int v; ref int a; v=10; new(a, 22); fork(wH(a, 30); v=32; print(v); print(a)   ); print(v); print(a)      
+
+--------------------------------------------
+
